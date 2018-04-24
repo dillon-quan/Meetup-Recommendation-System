@@ -5,7 +5,7 @@
 
 My second capstone project for springboard is my own attempt to create a recommendation system for Meetup.com. This social website allows user to join groups and participate in events hosted by groups of various categories to further explore and dab in the user interest. As a fellow user of Meetup.com, I have participated in a couple Data Science groups and attended a couple events. This project was inspired by the top contributors that queried this data using Meetup's API on kaggle. The link to their GitHub Repo can be found down below. This project is my attempt to develop a recommendation system of my own using the data these users posted on Kaggle.
 
-Top Contributors on Kaggle on this dataset Github: https://github.com/sumit-code/MSCA-31005-database-class-project
+Top Contributors on Kaggle for this dataset: https://github.com/sumit-code/MSCA-31005-database-class-project
 
 ### Dataset
 
