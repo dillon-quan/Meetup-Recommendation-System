@@ -15,7 +15,7 @@ Here is the link to the dataset used for this project. https://www.kaggle.com/si
 
 ### Approach
 
-Recommendation System has two major approach, content-based and collaborative filtering. Content-based focuses on using features that characterizes the item and find similar items that resemble previous like items and recommend similar items to the user. Collaborative filtering deviates from this characterization and finds a neighborhood of similar users or items and recommends user items that has not been considered by the user. There are many ways to attempt collaborative filtering. Memory-based or model-based are all part of collaborarive filtering. To decide which one is more appropriate, these approaches will be tested. 
+Recommendation System has two major approach, content-based and collaborative filtering. Content-based focuses on using features that characterizes the item and find similar items that resemble previous like items and recommend similar items to the user. Collaborative filtering deviates from this characterization and finds a neighborhood of similar users or items and recommends user items that has not been considered by the user. There are many ways to attempt collaborative filtering. Memory-based or model-based are all part of collaborarive filtering. All of these methods will be explored.
 
 ### Extension
 
